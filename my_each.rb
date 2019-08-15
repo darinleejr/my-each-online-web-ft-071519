@@ -5,6 +5,7 @@ end
 
 
 def my_each(words)
+  word
   while words do |word|
     puts word
   end
