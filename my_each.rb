@@ -8,5 +8,6 @@ def my_each(words)
   yield
   words.each do |word|
     puts word
+    end
   end
 end
