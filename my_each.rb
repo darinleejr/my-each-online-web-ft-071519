@@ -1,4 +1,4 @@
- my_while(num)
+def my_while(num)
   while num = 0
   end
 end
