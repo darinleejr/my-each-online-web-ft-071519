@@ -5,8 +5,8 @@ end
 
 
 def my_each(words)
-  word
-  while words do |word|
+  i = 0
+  while i < 5 do
     puts word
   end
 end
